@@ -1,6 +1,6 @@
 # Smart Store app Vue.js
 
-The [Smart Store app](https://ilhan007.github.io/ui5con-app) is a [Vue.js](https://vuejs.org/) sample application, demonstrating the usage of the [UI5 Web Components](https://github.com/SAP/ui5-webcomponents). You can find a step by step tutorial below on how to build the app by yourself. You don't have to clone the repo, the app will be built from scratch.
+The [Smart Store app Vue.js](https://5d1cb04456271f7e20187559--tender-wescoff-2ef166.netlify.com) is a [Vue.js](https://vuejs.org/) sample application, demonstrating the usage of the [UI5 Web Components](https://github.com/SAP/ui5-webcomponents). You can find a step by step tutorial below on how to build the app by yourself. You don't have to clone the repo, the app will be built from scratch.
 
 Note: no previous experience with [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) is required.
 To take the most of the tutorial, a basic knowledge with [Vue.js](https://vuejs.org/) is desirable.
@@ -62,8 +62,9 @@ The Smart Store app enables a store manager to control his/her multiple stores. 
 ### [Step #8 - Detail Page Create Item Dialog](./docs/Step8_Detail_add_new_item.md)
 
 ## Resources
-[Smart Store app React (original)](https://ilhan007.github.io/ui5con-app)
 
-[Sources of Smart Store App React (original)](https://github.com/ilhan007/ui5con-app)
+[Sources of Smart Store App Vue.js](https://5d1cb04456271f7e20187559--tender-wescoff-2ef166.netlify.com)
+
+[Smart Store app React (original)](https://ilhan007.github.io/ui5con-app)
 
 [List of all available UI5 Web Components](https://sap.github.io/ui5-webcomponents/playground)
