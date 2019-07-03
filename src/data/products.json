@@ -1,0 +1,82 @@
+[
+  {
+    "key": 1,
+    "name": "Broccoli",
+    "price": "2.99 USD",
+    "location": "27 Each, Aisle 3, Section 5",
+    "img": "/img/broccolli.png",
+    "status": "Deterioating",
+    "orderDate": "10/7/2019",
+    "perishable": true
+  },
+  {
+    "key": 2,
+    "name": "Tortilla Chips",
+    "price": "4.99 USD",
+    "location": "35 Each, Aisle 17, Section 5",
+    "img": "/img/tortillachips.png",
+    "status": "In-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": false
+  },
+  {
+    "key": 3,
+    "name": "Soap Bars",
+    "price": "5.49 USD",
+    "location": "3 Each, Aisle 23, Section 21",
+    "img": "/img/soap.png",
+    "status": "Re-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": false
+  },
+  {
+    "key": 4,
+    "name": "2% Skim Milk",
+    "price": "5.99 USD",
+    "location": "27 Each, Aisle 12, Section 3",
+    "img": "/img/milk.png",
+    "status": "In-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": true
+  },
+  {
+    "key": 5,
+    "name": "Lettuce",
+    "price": "6.79 USD",
+    "location": "4 Each, Aisle 3, Section 4",
+    "img": "/img/lettuce.png",
+    "status": "Re-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": true
+  },
+  {
+    "key": 6,
+    "name": "Whole Chicken",
+    "price": "3.99 /LB",
+    "location": "27 Each, Aisle 7, Section 17",
+    "img": "/img/chicken.png",
+    "status": "In-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": true
+  },
+  {
+    "key": 7,
+    "name": "Storage Bin",
+    "price": "7.99 USD",
+    "location": "19 Each, Aisle 27, Section 9",
+    "img": "/img/storagebin.png",
+    "status": "In-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": false
+  },
+  {
+    "key": 8,
+    "name": "Electric Kettle",
+    "price": "10.99 USD",
+    "location": "10 Each, Aisle 14, Section 36",
+    "img": "/img/kettle.png",
+    "status": "In-Stock",
+    "orderDate": "10/7/2019",
+    "perishable": false
+  }
+]
